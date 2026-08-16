@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Tuba Akbar Ali
 
-<!--
-**tubaakbar3/tubaakbar3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Science Student | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+Turning data into actionable insights with Python, SQL, Power BI & Excel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/Python-B8D8F0?style=for-the-badge&logo=python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/SQL-C9B8E8?style=for-the-badge&logo=mysql&logoColor=5B3C88">
+<img src="https://img.shields.io/badge/Power%20BI-F5D6A6?style=for-the-badge&logo=powerbi&logoColor=B8860B">
+<img src="https://img.shields.io/badge/Pandas-B9E3D0?style=for-the-badge&logo=pandas&logoColor=150458">
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-BFD7EA?style=for-the-badge&logo=numpy&logoColor=013243">
+<img src="https://img.shields.io/badge/Excel-BFE3C0?style=for-the-badge&logo=microsoftexcel&logoColor=217346">
+<img src="https://img.shields.io/badge/Machine%20Learning-D8C4E8?style=for-the-badge&logo=scikit-learn&logoColor=F7931E">
+</p>
+
+## 🌐 Let's Connect
+
+<p>
+<a href="https://www.linkedin.com/in/tuba-akbar-ali-4212bb37/">
+<img src="https://img.shields.io/badge/LinkedIn-C9DDF2?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+</a>
+
+<a href="mailto:tubaakbar3@gmail.com">
+<img src="https://img.shields.io/badge/Email-E8D1E8?style=for-the-badge&logo=gmail&logoColor=D14836">
+</a>
+</p>
