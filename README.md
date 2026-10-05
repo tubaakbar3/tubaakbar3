@@ -1,4 +1,4 @@
-# # {} Hi, I'm Tuba Akbar Ali
+# # Hi, I'm Tuba Akbar Ali
 
 📊 Data Science Student | Aspiring Data Analyst
 
